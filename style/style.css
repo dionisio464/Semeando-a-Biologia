@@ -1,0 +1,25 @@
+.wrapper {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    background-size: cover;
+    background-image: url("/img/anna-sushok-yZ6ldLZu09c-unsplash.jpg");
+    color: rgb(255, 238, 0);
+    border: 1px thin #61605b;
+    box-shadow: 0 4px 4px -2px #888484;
+    height: 97px;
+    
+}
+.nav-item {
+    padding-left: 50px;
+}
+.home {
+    margin-right: -100px;
+}
+
+
+.form-search {
+    margin-top: px;
+    padding-left: 620px;
+}
